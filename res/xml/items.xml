@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<items>
+    <item id="0">
+        <name>Helmet</name>
+        <price>15.99</price>
+    </item>
+    <item id="1">
+        <name>Body</name>
+        <price>35.99</price>
+    </item>
+    <item id="2">
+        <name>Legs</name>
+        <price>35.99</price>
+    </item>
+    <item id="3">
+        <name>Gloves</name>
+        <price>10.99</price>
+    </item>
+    <item id="4">
+        <name>Shoes</name>
+        <price>10.99</price>
+    </item>
+</items>

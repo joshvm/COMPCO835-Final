@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<admins>
+    <admin id="0">
+        <user>admin</user>
+        <pass>admin</pass>
+        <email>admin@vsw.com</email>
+        <phoneNumber>9051234567</phoneNumber>
+    </admin>
+</admins>

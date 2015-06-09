@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<invoices>
+    <invoice id="0">
+        <date ms="1433824845009" stamp="Tue Jun 09 00:40:45 EDT 2015"/>
+        <order id="0"/>
+    </invoice>
+</invoices>

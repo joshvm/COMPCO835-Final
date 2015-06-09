@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Admin Client:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="Admin Client.jar">
+      <element id="module-output" name="Admin Client" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/External Libraries/LAF/trident.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/External Libraries/LAF/substance.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

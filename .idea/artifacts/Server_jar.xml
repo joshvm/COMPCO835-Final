@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Server:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="Server.jar">
+      <element id="module-output" name="Server" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/External Libraries/netty-4.0.25.Final/jar/all-in-one/netty-all-4.0.25.Final.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

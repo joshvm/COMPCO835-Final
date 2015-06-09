@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vendors>
+    <vendor id="0">
+        <user>cats</user>
+        <pass>cats</pass>
+        <email>cats@cats.com</email>
+        <phoneNumber>123-456-7894</phoneNumber>
+        <addresses>
+            <billing>123 cats st
+box cats</billing>
+            <shipping>456 dogs st
+box dogs</shipping>
+        </addresses>
+    </vendor>
+</vendors>

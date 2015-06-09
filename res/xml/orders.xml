@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<orders>
+    <order id="0" state="APPROVED">
+        <vendor id="0">cats</vendor>
+        <date ms="1433824700710" stamp="Tue Jun 09 00:38:20 EDT 2015"/>
+        <items>
+            <item id="2">
+                <price>35.99</price>
+                <quantity>100</quantity>
+            </item>
+            <item id="1">
+                <price>35.99</price>
+                <quantity>200</quantity>
+            </item>
+            <item id="0">
+                <price>15.99</price>
+                <quantity>300</quantity>
+            </item>
+        </items>
+    </order>
+</orders>
