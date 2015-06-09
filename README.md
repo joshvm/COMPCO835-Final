@@ -15,3 +15,10 @@ Instructions:
 - Run server
 - Run admin client (user: admin | pass: admin) to create vendors
 - Run vendor client using credentials provided by the admin
+
+Screenshots:
+
+![](http://i.imgur.com/jKzsEGW.png)
+![](http://i.imgur.com/CCBH5IT.png)
+![](http://i.imgur.com/8avlePQ.png)
+![](http://i.imgur.com/Uqs1X46.png)
